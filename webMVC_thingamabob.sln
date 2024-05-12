@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webMVC_thingamabob", "webMVC_thingamabob\webMVC_thingamabob.csproj", "{970BF23B-1282-4C7C-9463-AB464E84B673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970BF23B-1282-4C7C-9463-AB464E84B673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970BF23B-1282-4C7C-9463-AB464E84B673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970BF23B-1282-4C7C-9463-AB464E84B673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970BF23B-1282-4C7C-9463-AB464E84B673}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1ECCBB-A48D-42C5-9BF2-AD482B548124}
+	EndGlobalSection
+EndGlobal
